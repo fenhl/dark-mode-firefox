@@ -1,0 +1,9 @@
+{
+    "allowed_extensions": [
+        "dark_mode@fenhl.net"
+    ],
+    "description": "Notifies Firefox when macOS dark mode is toggled",
+    "name": "dark_mode",
+    "path": "/opt/git/github.com/fenhl/dark-mode-firefox/master/target/release/dark-mode-firefox",
+    "type": "stdio"
+}

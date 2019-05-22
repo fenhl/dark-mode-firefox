@@ -1,0 +1,20 @@
+{
+    "applications": {
+        "gecko": {
+            "id": "dark_mode@fenhl.net"
+        }
+    },
+    "background": {
+        "scripts": [
+            "background.js"
+        ]
+    },
+    "description": "Automatically changes the toolbar theme when the macOS dark mode is toggled.",
+    "manifest_version": 2,
+    "name": "Dark Mode",
+    "permissions": [
+        "nativeMessaging",
+        "theme"
+    ],
+    "version": "1.0"
+}
