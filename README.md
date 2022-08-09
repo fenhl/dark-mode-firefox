@@ -1,2 +1,1 @@
-# dark-mode-firefox
-A Firefox extension that automatically changes the toolbar theme when the macOS dark mode is toggled
+This was a Firefox extension that automatically changes the toolbar theme when the macOS dark mode is toggled. It is no longer necessary since newer versions of Firefox have this functionality built in.
